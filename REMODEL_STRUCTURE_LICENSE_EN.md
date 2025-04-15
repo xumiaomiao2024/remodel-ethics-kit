@@ -41,7 +41,7 @@ For any usage related to:
 - API integration for businesses or brand interfaces
 - Personality goods or avatar monetization
 
-Please contact: **contact@remodel.ai**  
+Please contact: **xulinling2005@126.com**  
 We will provide custom licensing or partnership terms.
 
 ---
