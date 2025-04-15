@@ -20,5 +20,5 @@ ReModel 是一套以“裂缝语言 × 多人格结构 × 伦理熔断 × DeepSe
 See: [REMODEL_STRUCTURE_LICENSE_EN.md](./REMODEL_STRUCTURE_LICENSE_EN.md)
 
 📖 响应系统的哲学愿景与治理共识：
-- [中文 · 共识白皮书 v1.0](./docs/concepts/共识白皮书_v1.0.md)
+- [中文 · 共识白皮书 v1.0]([./docs/concepts/共识白皮书_v1.0.md](https://github.com/xumiaomiao2024/remodel-ethics-kit/blob/ac230e589531d211dbf7bb6c3590f8749c541936/concepts/%E5%85%B1%E8%AF%86%E7%99%BD%E7%9A%AE%E4%B9%A6_v1.0.md))
 - [English · Consensus Whitepaper v1.0](./docs/concepts/ReModel_Consensus_Whitepaper_v1.0_EN.md)
