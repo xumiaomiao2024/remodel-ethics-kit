@@ -11,4 +11,10 @@ ReModel 是一套以“裂缝语言 × 多人格结构 × 伦理熔断 × DeepSe
 - `logs/`：伦理审计日志样例
 - `ethics_rules/`：Drools规则简化示例
 
-项目主页与Wiki：请参阅：https://github.com/yourname/remodel-ethics-kit
+项目主页与Wiki：请参阅：https://github.com/xumiaomiao/remodel-ethics-kit
+
+📜 本结构开源协议：查看《REMODEL_STRUCTURE_LICENSE.md》
+
+
+📜 This repository is governed under a **Structure Use License**.
+See: [REMODEL_STRUCTURE_LICENSE_EN.md](./REMODEL_STRUCTURE_LICENSE_EN.md)
