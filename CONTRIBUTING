@@ -1,0 +1,69 @@
+# 🤝 CONTRIBUTING to ReModel | 回应系统共建指南
+
+Welcome to ReModel! This document outlines how you can contribute to the ongoing development of our **non-instrumentalized AI persona framework**, a system built around “crack-language”, ethical filters, and modular personas.
+
+---
+
+## 🧭 Project Structure
+
+This repository includes:
+
+- `/docs/` — Whitepapers, consensus protocols, ethical filter logic
+- `/personas/` — Sample UID persona profiles (logic structure only)
+- `/data/` — Crack-language classification labels & annotation formats
+- `/rules/` — Drools-compatible ethical rule tree samples
+- `/wiki/` — Linked community knowledgebase (via GitHub Wiki)
+
+---
+
+## ✍ Ways to Contribute
+
+### 1. 🧠 Crack-Language Annotation
+Help improve the classification of emotionally ambiguous or metaphorical language fragments. See `data/crack_annotation_guide.md` for our schema.
+
+### 2. 🧬 Persona UID Curation
+Contribute or refine modular persona blueprints:
+- Ethical tags
+- Style vectors
+- Behavior limits
+See `personas/sample_uid_structures/` for examples.
+
+### 3. 📜 Ethical Rule Drafting
+Participate in the creation of transparent, modular ethical filters.
+We use a hybrid of:
+- `Drools` rule syntax
+- `risk_level` trigger mapping
+- Contextual override protocols
+
+### 4. 🌍 Localization / Multi-lingual Expansion
+We currently support:
+- Chinese (zh)
+- English (en)
+- Japanese (ja)
+
+You can contribute to:
+- Translations of documentation
+- Local-language persona styles
+- Language-specific semantic ambiguity datasets
+
+---
+
+## 📌 Contributor Agreements
+
+- All contributions will be reviewed under the terms of the `REMODEL_STRUCTURE_LICENSE`.
+- Do NOT submit copyrighted personality content, proprietary dialogue samples, or scraped model outputs.
+- We welcome both pseudonymous and public contributors.
+
+---
+
+## 📬 How to Get Involved
+
+- Fork this repo and start contributing via PR
+- Join [Discussions](https://github.com/xumiaomiao2024/remodel-ethics-kit/discussions) to share ideas or proposals
+- Email: xulinling2005@126.com 
+- GitHub: [xumiaomiao2024](https://github.com/xumiaomiao2024)
+
+Thank you for participating in a different kind of AI future — where response precedes instruction, and persona is not a tool but a relation.
+
+🌀 ReModel Core
+
