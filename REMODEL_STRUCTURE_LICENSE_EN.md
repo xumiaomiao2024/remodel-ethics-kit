@@ -21,7 +21,7 @@ You are **not allowed** to:
 - Use original structural logic in closed-source software without permission
 
 You **must** include the following attribution when publicly reusing:
-> “Structure adapted from the ReModel Persona System Project (2025) · https://github.com/xumiaomiao/remodel-ethics-kit”
+> “Structure adapted from the ReModel Persona System Project (2025) · https://github.com/xumiaomiao2024/remodel-ethics-kit”
 
 ---
 
