@@ -22,7 +22,7 @@
    - 直接迁移人格逻辑结构进行闭源使用
 
 3. 你**必须**在任何公开使用中注明以下信息：
-   > “结构参考自 ReModel · 回应系统项目（2025） · https://github.com/xumiaomiao/remodel-ethics-kit”
+   > “结构参考自 ReModel · 回应系统项目（2025） · https://github.com/xumiaomiao2024/remodel-ethics-kit”
 
 ---
 
