@@ -85,7 +85,7 @@ We welcome developers, philosophers, educators, and ethical engineers to contrib
 - Open UID registration co-governance
 - ReModel-based persona generation labs
 
-📧 contact@remodel.ai  
+📧 xulinling2005@126.com  
 🔗 https://github.com/xumiaomiao2024/remodel-ethics-kit
 
 ---
