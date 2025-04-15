@@ -18,3 +18,7 @@ ReModel 是一套以“裂缝语言 × 多人格结构 × 伦理熔断 × DeepSe
 
 📜 This repository is governed under a **Structure Use License**.
 See: [REMODEL_STRUCTURE_LICENSE_EN.md](./REMODEL_STRUCTURE_LICENSE_EN.md)
+
+📖 响应系统的哲学愿景与治理共识：
+- [中文 · 共识白皮书 v1.0](./docs/concepts/共识白皮书_v1.0.md)
+- [English · Consensus Whitepaper v1.0](./docs/concepts/ReModel_Consensus_Whitepaper_v1.0_EN.md)
