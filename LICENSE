@@ -1,8 +1,55 @@
-MIT License
+# ReModel Project · 结构开放协议 v1.0
 
-Copyright (c) 2025 ReModel
+本授权协议适用于由 ReModel 回应系统项目公开发布的以下内容：
+- 项目结构目录与文件名结构
+- 人格编号结构示例（UID 设计逻辑、触发匹配机制等）
+- 裂缝语言标注规范、字段示意与格式模板
+- Drools 伦理判断规则结构（示例）
+- 审计日志字段结构（无用户内容）
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files...
+---
 
-(略，上传至GitHub时请使用完整MIT模板)
+## ✅ 授权范围（Structure Use Only）
+
+1. 你可以在以下条件下使用本项目的结构内容：
+   - **参考、复制或基于结构设计用于研究与探索**
+   - **用于教育、非商业研究项目**
+   - **用于开发兼容但独立命名的结构化人格系统**
+
+2. 你**不得**：
+   - 在未经书面许可的前提下，将“ReModel”或任何 UID/人格命名用于产品、服务或商用包装
+   - 使用原始字段结构进行伪装性拷贝以规避署名要求
+   - 直接迁移人格逻辑结构进行闭源使用
+
+3. 你**必须**在任何公开使用中注明以下信息：
+   > “结构参考自 ReModel · 回应系统项目（2025） · https://github.com/xumiaomiao/remodel-ethics-kit”
+
+---
+
+## 🛡 数据/人格语料保护条款
+
+本结构开源协议**不包含以下内容的授权**：
+- 原始裂缝语料（包括用户生成、AI回应、心理输入）
+- 完整人格编号数据库
+- ReModel 内部交互演算模板或AI调用参数
+
+---
+
+## 🤝 合作与商用许可
+
+如需使用 ReModel 的人格结构、回应模板或响应机制进行：
+- 商业产品接入
+- 模拟人格开发或人格商品化
+- 企业API调用或品牌接入
+
+请联系：**xulinling2005@126.com**  
+我们将依据使用场景提供个性化许可协议或合作条款。
+
+---
+
+## 📝 其他说明
+
+- 本协议内容基于《Creative Commons Attribution-NonCommercial 4.0》理念撰写，但加入人格逻辑与符号结构限制。
+- 所有未明确授予的权利均由 ReModel 项目保留。
+
+版权所有 © 2025 ReModel Project
