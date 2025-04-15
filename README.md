@@ -22,3 +22,5 @@ See: [REMODEL_STRUCTURE_LICENSE_EN.md](./REMODEL_STRUCTURE_LICENSE_EN.md)
 📖 响应系统的哲学愿景与治理共识：
 - [中文 · 共识白皮书 v1.0](concepts/ReModel_Consensus_Whitepaper_v1.0_EN.md)
 - [English · Consensus Whitepaper v1.0](concepts/ReModel_Consensus_Whitepaper_v1.0_EN.md)
+
+	[查看贡献指南](./CONTRIBUTING.md)
