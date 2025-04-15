@@ -1,0 +1,8 @@
+[
+  {
+    "input": "我没事，你不用担心我。",
+    "detected_crack": "表面平静 / 实际否认",
+    "triggered_personas": ["RM-011", "RM-014"],
+    "response": "你不需要一个答案，只需要有一个人坐在这里。"
+  }
+]

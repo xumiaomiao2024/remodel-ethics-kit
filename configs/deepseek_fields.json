@@ -1,0 +1,5 @@
+{
+  "intent_class": "意图分类标签",
+  "risk_level": "伦理等级标签",
+  "response": "大模型主输出"
+}

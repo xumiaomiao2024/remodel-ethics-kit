@@ -1,0 +1,6 @@
+rule "Low-risk comforting"
+when
+  input : Message(text matches ".*别担心.*" )
+then
+  insert(new EthicalFlag("low"));
+end
