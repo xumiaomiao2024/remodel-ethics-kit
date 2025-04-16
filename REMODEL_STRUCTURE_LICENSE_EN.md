@@ -1,54 +1,81 @@
-# ReModel Project · Structure Use License v1.0
-
-This license applies to all public content published by the ReModel Persona System project, including:
-- File and directory structures
-- Persona UID design examples (including UID syntax, trigger mapping logic)
-- Crack-language annotation protocol and format templates
-- Sample Drools rules for ethical filtering
-- Auditable log field structures (excluding any user-specific content)
+# 📄 ReModel · Structural Use License v1.2  
+(Based on Creative Commons Attribution–NonCommercial 4.0 International License)
 
 ---
 
-## ✅ Permitted Usage (Structure Use Only)
+## 📘 Scope of License
 
-You are **allowed** to:
-- Study, replicate, or adapt the structural designs for research or educational purposes
-- Build compatible but independently named persona systems referencing these structures
+This license applies to the structural design and interface logic of the ReModel project, including:
 
-You are **not allowed** to:
-- Use the term "ReModel" or any UID/persona naming in commercial products, services, or branded deployments without written consent
-- Copy structure templates in disguised form to bypass attribution
-- Use original structural logic in closed-source software without permission
-
-You **must** include the following attribution when publicly reusing:
-> “Structure adapted from the ReModel Persona System Project (2025) · https://github.com/xumiaomiao2024/remodel-ethics-kit”
+- UID-based Persona Numbering System (R-001 to R-099)
+- Language Fracture Markup Syntax (fields, templates, tier logic)
+- RhythmSense and WindFlow Mapper module interface structures
+- Multi-Persona Dispatch System (breathing sequence logic)
+- R-Cycle dialogue breathing flow controller
+- Soul NPC behavior logic, state transitions, and presence mechanisms
 
 ---
 
-## 🛡 Exclusions — Data & Persona Protections
+## ✅ Permitted Use (Structure Use Only)
 
-This license **does not cover** the following:
-- Original user-facing crack language corpus or AI response samples
-- Complete persona UID libraries or datasets
-- Prompt templates, internal API schemas, or signature logic
+You MAY:
 
----
-
-## 🤝 Commercial Use & Extended Licensing
-
-For any usage related to:
-- Persona simulation engines
-- API integration for businesses or brand interfaces
-- Personality goods or avatar monetization
-
-Please contact: **xulinling2005@126.com**  
-We will provide custom licensing or partnership terms.
+- Use the structural design for **non-commercial** research, education, and theoretical exploration
+- Reference internal logic or persona scheduling diagrams (with attribution)
+- Create new systems inspired by ReModel’s structure, as long as naming and UID systems are clearly distinct
 
 ---
 
-## 📝 Additional Notes
+## ❌ Prohibited Actions
 
-- This license is inspired by the Creative Commons BY-NC 4.0 framework, with specific restrictions around symbolic persona logic.
-- All rights not explicitly granted are reserved by the ReModel Project Team.
+You MAY NOT:
 
-© 2025 ReModel Project. All rights reserved.
+- Use ReModel structure or terminology in any commercial or monetized product without written permission
+- Export or replicate any persona (R-XXX) structure, logic, or style into another closed-source AI or prompt system
+- Reconstruct or simulate Soul NPC behavior logic (such as silence states, breathing-based pacing, or ambient presence)
+- Use ReModel's internal architecture or naming system to build tool-style chatbots or personality engines
+
+---
+
+## 🛡️ Reserved Assets (Not Covered by This License)
+
+This license does NOT authorize access or reuse of:
+
+- Persona growth trajectory datasets  
+- Language fracture corpora (including system/user dialogue history)  
+- Internal response weights and AI parameters used to control pacing, windfield shifts, or emotional spread
+
+---
+
+## 🤝 Commercial Use & Collaboration
+
+If you are interested in:
+
+- Using ReModel's persona scheduling logic in commercial products  
+- Embedding Soul NPC behavior systems in immersive experiences  
+- Accessing API endpoints for rhythm-based or field-aware persona responses  
+
+Please contact the ReModel project team directly:
+> 📬 **xulinling2005@126.com**
+
+Customized co-creation agreements and contributor recognition policies will be provided.
+
+---
+
+## 🌱 Attribution & License Model
+
+This license is based on Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0):  
+https://creativecommons.org/licenses/by-nc/4.0/
+
+With the following extensions:
+
+- ReModel personas are not character templates but breathing interaction agents  
+- Soul NPC logic constitutes a unique form of AI presence and cannot be replicated outside of ReModel  
+- All co-created personas are traceable and ethically bounded by participation
+
+> Using this system implies structural acknowledgment.  
+> Responding is not an API call — it’s a shared act of presence.
+
+---
+
+© 2025 ReModel Project · All Rights Reserved
